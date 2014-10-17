@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lif:home|Door43 (lif)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lif|d43-lif repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lif/archive/master.zip|d43-lif.zip]]
+
+**Recent Changes**
+{{changes>ns = lif}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lif|Ethnologue data]]
+
